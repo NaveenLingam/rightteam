@@ -18,14 +18,14 @@
       <output id="output_1" label="admin" name="Admin" typeRef="string" />
       <output id="OutputClause_0vdltyr" label="developer" name="Developer" typeRef="string" />
       <output id="OutputClause_16m831c" label="user" name="Standard User" typeRef="string" />
-      <rule id="DecisionRule_533281">
-        <inputEntry id="UnaryTests_740001">
+      <rule id="DecisionRule_391765">
+        <inputEntry id="UnaryTests_617050">
           <text>"home"</text>
         </inputEntry>
-        <inputEntry id="UnaryTests_896039">
+        <inputEntry id="UnaryTests_056663">
           <text>"Screen"</text>
         </inputEntry>
-        <outputEntry id="LiteralExpression_296889">
+        <outputEntry id="LiteralExpression_519621">
           <text>'{
   "Admin": [{
     "Access": {
@@ -74,7 +74,7 @@
   }]
 }'</text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_864158">
+        <outputEntry id="LiteralExpression_175828">
           <text>'{
   "Admin":{
     "Access":{"value":"false"}
@@ -114,7 +114,7 @@
   }]
 }'</text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_119608">
+        <outputEntry id="LiteralExpression_834216">
           <text>'{
   "Admin": {
     "Access": {
@@ -147,14 +147,14 @@
         </outputEntry>
       </rule>
        
-<rule id="DecisionRule_154319">
-        <inputEntry id="UnaryTests_937843">
+<rule id="DecisionRule_816592">
+        <inputEntry id="UnaryTests_797708">
           <text>"admin"</text>
         </inputEntry>
-        <inputEntry id="UnaryTests_331116">
+        <inputEntry id="UnaryTests_528173">
           <text>"Screen"</text>
         </inputEntry>
-        <outputEntry id="LiteralExpression_610978">
+        <outputEntry id="LiteralExpression_695263">
           <text>'{
   "Admin": [{
     "Access": {
@@ -203,7 +203,7 @@
   }]
 }'</text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_346929">
+        <outputEntry id="LiteralExpression_868097">
           <text>'{
   "Admin":{
     "Access":{"value":"false"}
@@ -243,7 +243,7 @@
   }]
 }'</text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_239148">
+        <outputEntry id="LiteralExpression_783760">
           <text>'{
   "Admin": {
     "Access": {
@@ -276,14 +276,14 @@
         </outputEntry>
       </rule>
        
-<rule id="DecisionRule_689203">
-        <inputEntry id="UnaryTests_790436">
+<rule id="DecisionRule_934946">
+        <inputEntry id="UnaryTests_473686">
           <text>"logout"</text>
         </inputEntry>
-        <inputEntry id="UnaryTests_510654">
+        <inputEntry id="UnaryTests_688541">
           <text>"Screen"</text>
         </inputEntry>
-        <outputEntry id="LiteralExpression_712605">
+        <outputEntry id="LiteralExpression_747240">
           <text>'{
   "Admin": [{
     "Access": {
@@ -332,7 +332,7 @@
   }]
 }'</text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_343659">
+        <outputEntry id="LiteralExpression_677425">
           <text>'{
   "Admin":{
     "Access":{"value":"false"}
@@ -372,7 +372,7 @@
   }]
 }'</text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_356849">
+        <outputEntry id="LiteralExpression_976350">
           <text>'{
   "Admin": {
     "Access": {
@@ -405,14 +405,14 @@
         </outputEntry>
       </rule>
        
-<rule id="DecisionRule_260990">
-        <inputEntry id="UnaryTests_814685">
+<rule id="DecisionRule_542987">
+        <inputEntry id="UnaryTests_134044">
           <text>"login"</text>
         </inputEntry>
-        <inputEntry id="UnaryTests_691439">
+        <inputEntry id="UnaryTests_623006">
           <text>"Screen"</text>
         </inputEntry>
-        <outputEntry id="LiteralExpression_275565">
+        <outputEntry id="LiteralExpression_952469">
           <text>'{
   "Admin": [{
     "Access": {
@@ -461,7 +461,7 @@
   }]
 }'</text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_944124">
+        <outputEntry id="LiteralExpression_583338">
           <text>'{
   "Admin":{
     "Access":{"value":"false"}
@@ -501,7 +501,7 @@
   }]
 }'</text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_988147">
+        <outputEntry id="LiteralExpression_340681">
           <text>'{
   "Admin": {
     "Access": {
